@@ -1,0 +1,15 @@
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.csprojAssemblyReference.cache
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\MainWindow.g.cs
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\App.g.cs
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake_MarkupCompile.cache
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake_MarkupCompile.lref
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\bin\Debug\ProjecteSnake.exe.config
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\bin\Debug\ProjecteSnake.exe
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\bin\Debug\ProjecteSnake.pdb
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\MainWindow.baml
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.g.resources
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.Properties.Resources.resources
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.csproj.GenerateResource.cache
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.csproj.CoreCompileInputs.cache
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.exe
+C:\TercerAny\M09. ServeisProcesos\ProjecteSnake\ProjecteSnake\obj\Debug\ProjecteSnake.pdb

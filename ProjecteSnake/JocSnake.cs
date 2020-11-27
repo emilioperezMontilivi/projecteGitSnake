@@ -3,12 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using System.Windows;
+=======
+>>>>>>> funcio_creacioJocSnakeClass
 
 namespace ProjecteSnake
 {
     class JocSnake
     {
+<<<<<<< HEAD
         public const int WIDTH = 5;
         public const int HEIGHT = 5;
         public const int NPOMES = 3;
@@ -86,5 +90,7 @@ namespace ProjecteSnake
         Sud,
         Est,
         Oest
+=======
+>>>>>>> funcio_creacioJocSnakeClass
     }
 }
